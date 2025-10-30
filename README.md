@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Eden 👋
 
-<!--
-**edenkollcinaku/edenkollcinaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Albania with experience in building dynamic and efficient web and Android applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I'm proficient in:
+
+* **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
+* **Backend:** Node.js, Express.js
+* **Database:** Firebase (Firestore, Realtime Database), SQL
+* **Cloud & DevOps:** Google Cloud Platform (GCP), Firebase Hosting, Cloud Functions
+* **Other:** Git, API Integration, UI/UX Design
+
+<br>
+
+### 📫 How to reach me:
+
+* **Website:** [https://pixel.al](https://pixel.al)
+* **LinkedIn:** [Add your LinkedIn URL here]
+* **Email:** [Add your preferred contact email]
