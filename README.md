@@ -20,6 +20,4 @@ Here are some of the technologies I'm proficient in:
 
 ### 📫 How to reach me:
 
-* **Website:** [https://pixel.al](https://pixel.al)
-* **LinkedIn:** [Add your LinkedIn URL here]
-* **Email:** [Add your preferred contact email]
+* **Email:** [info@pixel.al]
