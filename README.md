@@ -1,4 +1,4 @@
-# Hi there, I'm Eden 👋
+# Hi there, I'm Eden
 
 I'm a software developer based in Albania with experience in building dynamic and efficient web and Android applications.
 
@@ -6,7 +6,7 @@ I'm a software developer based in Albania with experience in building dynamic an
 
 <br>
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 Here are some of the technologies I'm proficient in:
 
@@ -18,6 +18,6 @@ Here are some of the technologies I'm proficient in:
 
 <br>
 
-### 📫 How to reach me:
+### How to reach me:
 
 * **Email:** [info@pixel.al]
